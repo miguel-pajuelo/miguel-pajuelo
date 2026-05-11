@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hola, soy Miguel Pajuelo Gómez
 
-<!--
-**miguel-pajuelo/miguel-pajuelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de **Ingeniería Matemática e IA** en ICAI (Madrid)  
+🎯 Enfocado en **Machine Learning** y productivización de modelos (**MLOps**)  
+📍 Madrid, Spain
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Stack técnico
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+
+---
+
+## 📚 Proyectos destacados
+
+| Proyecto | Descripción | Stack |
+|----------|-------------|-------|
+| 🎓 Student Success Prediction | LDA + Gradient Boosting + K-Means implementados desde cero. R²=0.796 | Python · NumPy |
+| ⛽ Fuel Route Optimizer | API REST que scrape precios de gasolina en tiempo real y calcula la ruta más económica | FastAPI · Pydantic |
+| 🧭 AI Search Algorithms | BFS, DFS, A*, Bayesian Search y MDP en entorno con incertidumbre | Python |
+| 📊 Streamlit Dashboard | Dashboard interactivo de análisis de datos | Python · Streamlit |
+
+---
+
+## 🔭 Actualmente trabajando en...
+
+- **NaturDigest** — App para personas con intolerancias y restricciones alimentarias que reduce la fricción del día a día: saber qué comer, qué comprar, dónde ir y qué recetas encajan con tu perfil. Actualmente en fase de validación con usuarios reales.
+
+- **Luminal** — Sistema de decisión operativa para edificios que predice comportamiento energético y optimiza la operación de HVAC/UTAs para reducir coste sin comprometer confort. Actualmente construyendo el entorno simulado y el pipeline de datos.
+
+- **Proyectos de ML** — proyectos progresivos con foco en aprendizaje y desarrollo profesional (regresión, clasificación, redes neuronales, pipelines, etc...)
+
+## 🌱 Actualmente aprendiendo...
+
+- **Criptografía moderna con base en matemática discreta** — RSA (Euler, Fermat, exponenciación modular), ECC, funciones hash, firma digital, TLS 1.3
+- **ISLR/ISLP** en profundidad — regularización, métodos de ensemble, redes neuronales, validación estadística
+- **MLOps** — pipelines reproducibles, APIs de inferencia con FastAPI, contenerización con Docker
+
+## 📫 Contacto  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-pajuelo-g%C3%B3mez-15a473339/)
