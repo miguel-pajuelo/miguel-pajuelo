@@ -1,7 +1,7 @@
 # 👋 Hola, soy Miguel Pajuelo Gómez
 
 🎓 Estudiante de **Ingeniería Matemática e IA** en ICAI (Madrid)  
-🎯 Enfocado en **Machine Learning** y productivización de modelos (**MLOps**)  
+🎯 Enfocado en **Machine Learning**, **Data Extraction and Analysis**, **Database Systems**
 📍 Madrid, Spain
 
 ---
