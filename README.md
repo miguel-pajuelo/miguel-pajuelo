@@ -1,4 +1,4 @@
-# 👋 Hola, soy Miguel Pajuelo Gómez
+# Hola, soy Miguel Pajuelo Gómez
 
 🎓 Estudiante de **Ingeniería Matemática e IA** en ICAI (Madrid)  
 🎯 Enfocado en **Machine Learning**, **Data Extraction and Analysis**, **Database Systems**
@@ -21,10 +21,10 @@
 
 | Proyecto | Descripción | Stack |
 |----------|-------------|-------|
-| 🎓 Student Success Prediction | LDA + Gradient Boosting + K-Means implementados desde cero. R²=0.796 | Python · NumPy |
+| 🎓 Student Success Prediction - ML Class Project | LDA + Gradient Boosting + K-Means implementados desde cero. R²=0.796 | Python · NumPy |
 | ⛽ Fuel Route Optimizer | API REST que scrape precios de gasolina en tiempo real y calcula la ruta más económica | FastAPI · Pydantic |
-| 🧭 AI Search Algorithms | BFS, DFS, A*, Bayesian Search y MDP en entorno con incertidumbre | Python |
-| 📊 Streamlit Dashboard | Dashboard interactivo de análisis de datos | Python · Streamlit |
+| 🧭 AI Search Algorithms - AI Class Project | BFS, DFS, A*, Bayesian Search y MDP en entorno con incertidumbre | Python |
+| 📊 Streamlit Dashboard - Final Project| Dashboard interactivo de análisis de los datos de una empresa de venta de artículos en Sudamérica | Python · Streamlit |
 
 ---
 
