@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/miguel-pajuelo-g%C3%B3mez-15a473339/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/miguel-pajuelo-gomez/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <img src="https://img.shields.io/badge/📍_Madrid,_Spain-555?style=for-the-badge" alt="Madrid, Spain"/>
 </p>
 
@@ -61,9 +61,7 @@
 
 ## 🔭 Currently working on
 
-- 🥗 **NaturDigest** — An app for people with food intolerances and dietary restrictions: what to eat, what to buy, where to go and which recipes fit your profile. *Currently validating with real users.*
-- 🏢 **Luminal** — A decision system for buildings that predicts energy behavior and optimizes HVAC/AHU operation to cut costs without sacrificing comfort. *Currently building the simulated environment and data pipeline.*
-- 🤖 **Progressive ML projects** — regression, classification, neural networks and pipelines, with a focus on good engineering practices.
+Focusing on **Deep Learning** and **Large Language Models (LLMs)**: neural network architectures, transformers, fine-tuning (LoRA / QLoRA), and building applications on top of LLMs.
 
 ## 🌱 Currently learning
 
@@ -75,4 +73,4 @@
 
 ## 📫 Get in touch
 
-Interested in one of my projects or want to collaborate? Reach out on [LinkedIn](https://www.linkedin.com/in/miguel-pajuelo-g%C3%B3mez-15a473339/).
+Interested in one of my projects or want to collaborate? Reach out on [LinkedIn](https://www.linkedin.com/in/miguel-pajuelo-gomez/).
