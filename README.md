@@ -1,47 +1,78 @@
-# Hola, soy Miguel Pajuelo Gómez
+<h1 align="center">Hi, I'm Miguel Pajuelo Gómez 👋</h1>
 
-🎓 Estudiante de **Ingeniería Matemática e IA** en ICAI (Madrid)  
-🎯 Enfocado en **Machine Learning**, **Data Extraction and Analysis**, **Database Systems**
-📍 Madrid, Spain
+<p align="center">
+  <b>Mathematical Engineering & Artificial Intelligence</b> student at <b>ICAI</b> (Universidad Pontificia Comillas, Madrid).<br/>
+  I'm interested in taking <b>Machine Learning</b> models from the notebook to production: data, modeling, optimization and <b>MLOps</b>.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/miguel-pajuelo-g%C3%B3mez-15a473339/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <img src="https://img.shields.io/badge/📍_Madrid,_Spain-555?style=for-the-badge" alt="Madrid, Spain"/>
+</p>
 
 ---
 
-## 🛠️ Stack técnico
+## 🧑‍💻 About me
 
+- 🎯 **Focus:** Machine Learning, data extraction and analysis, mathematical optimization and database systems.
+- 🧮 **Math first:** I like understanding algorithms from the inside — several of my projects implement models **from scratch in NumPy**.
+- 🚀 **Goal:** grow into an **MLOps / ML Engineer** role, building reproducible pipelines and inference services.
+
+---
+
+## 🛠️ Tech stack
+
+**Languages & tools**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+**Data & Machine Learning**
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=plotly&logoColor=white)
+![NetworkX](https://img.shields.io/badge/NetworkX-2563EB?style=flat)
+
+**Optimization**
+![Pyomo](https://img.shields.io/badge/Pyomo-0B3D91?style=flat)
+![Gurobi](https://img.shields.io/badge/Gurobi-EE3524?style=flat)
+
+**Backend & apps**
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat&logo=pydantic&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
 ---
 
-## 📚 Proyectos destacados
+## 📚 Featured projects
 
-| Proyecto | Descripción | Stack |
-|----------|-------------|-------|
-| 🎓 Student Success Prediction - ML Class Project | LDA + Gradient Boosting + K-Means implementados desde cero. R²=0.796 | Python · NumPy |
-| ⛽ Fuel Route Optimizer | API REST que scrape precios de gasolina en tiempo real y calcula la ruta más económica | FastAPI · Pydantic |
-| 🧭 AI Search Algorithms - AI Class Project | BFS, DFS, A*, Bayesian Search y MDP en entorno con incertidumbre | Python |
-| 📊 Streamlit Dashboard - Final Project| Dashboard interactivo de análisis de los datos de una empresa de venta de artículos en Sudamérica | Python · Streamlit |
+| Project | What it does | Stack |
+|---------|--------------|-------|
+| ⛽ [**FuelOpt**](https://github.com/miguel-pajuelo/fuel-opt-project) | Local Windows app that compares fuel stations across Spain using official MINETUR data and finds where it's best to refuel based on price, liters and detour. Ships with an installer, real road routing (OpenRouteService) and scheduled price updates. | Python · FastAPI · Pydantic |
+| 🎓 [**Student Success Prediction**](https://github.com/miguel-pajuelo/ml-final-project-student-success) | End-to-end ML project: **LDA**, **Gradient Boosting** and **PCA + K-Means** implemented from scratch, with no data leakage. Regression **R² = 0.796**. Report written in NeurIPS format. | Python · NumPy |
+| 🖥️ [**AI Compute Capacity Optimization**](https://github.com/miguel-pajuelo/ai-data-center-location-and-capacity-optimization) | Mixed-integer model that decides which data centers to open, how many GPU nodes (H100/H200/B200) to install and how to allocate demand across Europe and the US under latency, capacity and budget constraints. | Pyomo · Gurobi · Pandas |
+| 🗺️ [**Madrid Route Planner**](https://github.com/miguel-pajuelo/gps-madrid-discrete-math) | Route planner over Madrid's street network using **Dijkstra**, with turn-by-turn instructions and a map. Includes modular arithmetic and **RSA** practices. | Python · NetworkX |
+| 🧭 [**AI Search Algorithms**](https://github.com/miguel-pajuelo/ai-search-algorithms-final-project) | Knowledge-based agent in an uncertain environment: **BFS, DFS, A\***, Bayesian search and **MDP**. | Python |
+| 📊 **Sales Dashboard** | Interactive dashboard analyzing data from a retail company selling products in South America. | Python · Streamlit |
 
 ---
 
-## 🔭 Actualmente trabajando en...
+## 🔭 Currently working on
 
-- **NaturDigest** — App para personas con intolerancias y restricciones alimentarias que reduce la fricción del día a día: saber qué comer, qué comprar, dónde ir y qué recetas encajan con tu perfil. Actualmente en fase de validación con usuarios reales.
+- 🥗 **NaturDigest** — An app for people with food intolerances and dietary restrictions: what to eat, what to buy, where to go and which recipes fit your profile. *Currently validating with real users.*
+- 🏢 **Luminal** — A decision system for buildings that predicts energy behavior and optimizes HVAC/AHU operation to cut costs without sacrificing comfort. *Currently building the simulated environment and data pipeline.*
+- 🤖 **Progressive ML projects** — regression, classification, neural networks and pipelines, with a focus on good engineering practices.
 
-- **Luminal** — Sistema de decisión operativa para edificios que predice comportamiento energético y optimiza la operación de HVAC/UTAs para reducir coste sin comprometer confort. Actualmente construyendo el entorno simulado y el pipeline de datos.
+## 🌱 Currently learning
 
-- **Proyectos de ML** — proyectos progresivos con foco en aprendizaje y desarrollo profesional (regresión, clasificación, redes neuronales, pipelines, etc...)
+- **MLOps:** reproducible pipelines, inference APIs with FastAPI and containerization with Docker.
+- **ISLR / ISLP in depth:** regularization, ensemble methods, neural networks and statistical validation.
+- **Modern cryptography:** RSA (Euler, Fermat, modular exponentiation), ECC, hash functions, digital signatures and TLS 1.3.
 
-## 🌱 Actualmente aprendiendo...
+---
 
-- **Criptografía moderna con base en matemática discreta** — RSA (Euler, Fermat, exponenciación modular), ECC, funciones hash, firma digital, TLS 1.3
-- **ISLR/ISLP** en profundidad — regularización, métodos de ensemble, redes neuronales, validación estadística
-- **MLOps** — pipelines reproducibles, APIs de inferencia con FastAPI, contenerización con Docker
+## 📫 Get in touch
 
-## 📫 Contacto  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-pajuelo-g%C3%B3mez-15a473339/)
+Interested in one of my projects or want to collaborate? Reach out on [LinkedIn](https://www.linkedin.com/in/miguel-pajuelo-g%C3%B3mez-15a473339/).
